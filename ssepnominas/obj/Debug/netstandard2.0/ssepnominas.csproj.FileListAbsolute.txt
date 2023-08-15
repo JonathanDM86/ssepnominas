@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\ssepnominas\ssepnominas\ssepnominas\bin\Debug\netstandard2.0\ssepnominas.deps.json
+C:\Users\Usuario\source\repos\ssepnominas\ssepnominas\ssepnominas\bin\Debug\netstandard2.0\ssepnominas.dll
+C:\Users\Usuario\source\repos\ssepnominas\ssepnominas\ssepnominas\bin\Debug\netstandard2.0\ref\ssepnominas.dll
+C:\Users\Usuario\source\repos\ssepnominas\ssepnominas\ssepnominas\bin\Debug\netstandard2.0\ssepnominas.pdb
+C:\Users\Usuario\source\repos\ssepnominas\ssepnominas\ssepnominas\obj\Debug\netstandard2.0\ssepnominas.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ssepnominas\ssepnominas\ssepnominas\obj\Debug\netstandard2.0\ssepnominas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ssepnominas\ssepnominas\ssepnominas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\source\repos\ssepnominas\ssepnominas\ssepnominas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\source\repos\ssepnominas\ssepnominas\ssepnominas\obj\Debug\netstandard2.0\ssepnominas.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ssepnominas\ssepnominas\ssepnominas\obj\Debug\netstandard2.0\ssepnominas.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ssepnominas\ssepnominas\ssepnominas\obj\Debug\netstandard2.0\ssepnominas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ssepnominas\ssepnominas\ssepnominas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\source\repos\ssepnominas\ssepnominas\ssepnominas\obj\Debug\netstandard2.0\ssepnominas.dll
+C:\Users\Usuario\source\repos\ssepnominas\ssepnominas\ssepnominas\obj\Debug\netstandard2.0\refint\ssepnominas.dll
+C:\Users\Usuario\source\repos\ssepnominas\ssepnominas\ssepnominas\obj\Debug\netstandard2.0\ssepnominas.pdb
